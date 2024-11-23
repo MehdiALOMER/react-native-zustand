@@ -1,7 +1,7 @@
 {
   "name": "react-native-zustand",
   "main": "expo-router/entry",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native template with Zustand and Expo Router",
   "keywords": [
     "react-native",
